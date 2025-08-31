@@ -5,7 +5,7 @@
 - **Risk:** Spoofing vulnerability – attackers can send specially crafted emails that leak Net-NTLMv2 hashes, enabling relay attacks.  
 - **Evidence:**  
   - before-tenable-finding.png  
-  - before-outlook-details.png  
+  - before-outlook-details.png 
 
 ## Remediation
 - Apply the missing Outlook April 2024 security update.  
