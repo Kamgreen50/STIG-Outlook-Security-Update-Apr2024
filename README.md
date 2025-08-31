@@ -20,13 +20,12 @@
 ---
 
 ## After Remediation
-(Placeholder – will add screenshot once fixed and rescanned)  
+- Expected outcome: Outlook updated and secured against spoofing vulnerability.  
+- Evidence (placeholders):  
 
-- Confirm Tenable no longer reports Plugin ID 193266.  
-- **Proof to be added:**  
+After – Outlook Details Placeholder  
+After – Tenable Rescan Placeholder  
 
-![After – Outlook Details Placeholder](after-outlook-details.png)  
-![After – Tenable Rescan Placeholder](after-tenable-rescan.png)  
 
 
 
